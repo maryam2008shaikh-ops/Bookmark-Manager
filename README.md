@@ -133,7 +133,7 @@ MiniMoth is designed specifically for WhatsApp-first OTP authentication without 
 Open PowerShell and navigate to the project directory:
 
 ```powershell
-cd "c:\Users\Shruti\Desktop\BookMark Manager\bookmark-manager"
+
 ```
 
 ### Step 1: Configure Backend Environment
@@ -219,7 +219,7 @@ Open **two separate PowerShell terminals**:
 ### Terminal 1: Backend Server
 
 ```powershell
-cd "c:\Users\Shruti\Desktop\BookMark Manager\bookmark-manager\backend"
+cd "c:\Users\"
 npm start
 ```
 *Output:*
@@ -236,7 +236,7 @@ npm start
 ### Terminal 2: Frontend Development Server
 
 ```powershell
-cd "c:\Users\Shruti\Desktop\BookMark Manager\bookmark-manager\frontend"
+cd "c:\Users\Desktop\BookMark Manager\bookmark-manager\frontend"
 npm run dev
 ```
 *Output:*
